@@ -1,16 +1,3 @@
-# konversi_suhu_map_flutter
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot (12)](https://user-images.githubusercontent.com/89897348/161693181-67dc2795-6231-49ca-8bfa-dba64f882065.png)
+![Screenshot (11)](https://user-images.githubusercontent.com/89897348/161693195-051af878-e228-4824-a020-3eeb928d1189.png)
